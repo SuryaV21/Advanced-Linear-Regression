@@ -1,4 +1,4 @@
-# Linear Regression Project 
+# Advanced Linear Regression Project 
 
 ## Table of Contents
 * [Problem Statement](#problem-statement)
